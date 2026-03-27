@@ -5,8 +5,8 @@ import turtle
 
 skk = turtle.Turtle()
 
-for i in range(5):
+for i in range(6):
     skk.forward(50)
-    skk.right(72.5)
+    skk.right(60)
     
 turtle.done()
